@@ -1,0 +1,41 @@
+{
+  "data_1": [
+    { "birthday": "29 Oct 2002" },
+    {
+      "website": "<a target='blank' href='http://ian-claros-resume.s3-website-us-east-1.amazonaws.com'>http://ian-claros-resume.s3-website-us-east-1.amazonaws.com</a>"
+    },
+    { "phone": "+63 910-624-2067" },
+    { "address": "Tinangnan, Tubigon, Bohol, Philippines" }
+  ],
+  "data_2": [
+    { "age": 21 },
+    { "degree": "BSIT4" },
+    { "email": "<a href='mailto:justinepalms@gmail.com'>justinepalms@gmail.com</a>" },
+    { "freelance": "Available" }
+  ],
+  "data_3": [
+    "Tinangnan, Tubigon, Bohol, Philippines",
+    "+63 930-861-2553",
+    "<a href='mailto:justinepalms@gmail.com'>justinepalms@gmail.com</a>"
+  ],
+  "data_4": [
+    {
+      "title": "BSIT-4",
+      "year": "2021 - 2025",
+      "school": "Mater dei College",
+      "address": "Cabulian Tubigon Bohol"
+    },
+    {
+      "title": "SECONDARY",
+      "year": "2013 - 2021",
+      "school": "Salus Institue of Technology",
+      "address": "Tinangnan, Tubigon, Bohol, "
+    },
+    {
+      "title": "ELEMENTARY",
+      "year": "2006 - 2013",
+      "school": "Tinangnan  Elementary School",
+      "address": "Tinangnan, Tubigon, Bohol"
+    }
+  ]
+}
